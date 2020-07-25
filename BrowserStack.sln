@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserStack", "BrowserStack\BrowserStack.csproj", "{3CB04C83-CE8F-4571-B6FF-8CBB0CB8BFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB04C83-CE8F-4571-B6FF-8CBB0CB8BFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB04C83-CE8F-4571-B6FF-8CBB0CB8BFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB04C83-CE8F-4571-B6FF-8CBB0CB8BFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB04C83-CE8F-4571-B6FF-8CBB0CB8BFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38AD1A46-EAED-4801-A95A-1B88C0D7F9AC}
+	EndGlobalSection
+EndGlobal
